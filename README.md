@@ -1,0 +1,2 @@
+# Wordlister
+Wordlist-ების გენერატორი
