@@ -383,5 +383,5 @@ if ask == 'კი':
 	report.close()
 	print("\nWordlist-ის გენერირება წარმატებით დასრულდა.")
 else:
-	print("\nWordlist-ის გენერირება შეწყვეტილია.")
+	print("\nWordlist-ის გენერირება არ განხორციელდა.")
 	pass
