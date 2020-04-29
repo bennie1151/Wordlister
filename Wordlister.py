@@ -13,13 +13,13 @@ def keyboardInterruptHandler(signal, frame):
 
 signal.signal(signal.SIGINT, keyboardInterruptHandler)
 
-print('\n   __...--~~~~~-._   _.-~~~~~--...__')
+print('\n     __...--~~~~~-._   _.-~~~~~--...__')
 print('   //               `V`               \\')
 print('  //                 |                 \\') 
 print(' //__...--~~~~~~-._  |  _.-~~~~~~--...__\\') 
 print('//__.....----~~~~._\ | /_.~~~~----.....__\\')
 print('====================\|/====================')
-print('Wordlister.py v1.0 - Coded by გიო რგი & S4RR4\n')
+print(' Wordlister.py v1.0 - Coded by გიო რგი & S4RR4\n')
 print('https://github.com/AnonymousFromGeorgia/Wordlister')
 print("\nგამოიყენეთ კლავიში Enter, რათა გამოტოვოთ შეკითხვა.")
 print("\nგამოიყენეთ კლავიშების კომბინაცია CTRL+C, რათა გათიშოთ პროგრამა.")
