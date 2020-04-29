@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+#Coded by გიო რგი
+#Contributed by S4RR4
+
 import os
 os.system('clear')
 
@@ -19,7 +22,7 @@ print('  //                 |                 \\')
 print(' //__...--~~~~~~-._  |  _.-~~~~~~--...__\\') 
 print('//__.....----~~~~._\ | /_.~~~~----.....__\\')
 print('====================\|/===================')
-print(' Wordlister.py v1.0 - Coded by გიო რგი & S4RR4\n')
+print(' Wordlister.py v1.0 - Coded by გიო რგი\n')
 print('https://github.com/AnonymousFromGeorgia/Wordlister')
 print("\nგამოიყენეთ კლავიში Enter, რათა გამოტოვოთ შეკითხვა.")
 print("\nგამოიყენეთ კლავიშების კომბინაცია CTRL+C, რათა გათიშოთ პროგრამა.")
@@ -55,7 +58,7 @@ if ask == 'კი':
 		report.write(pet + '\n')
 		report.write(country + '\n')
 		report.write(city + '\n')
-		#name+
+
 		report.write(name + byear + '\n')
 		report.write(name + bmonth + '\n')
 		report.write(name + bday + '\n')
@@ -101,7 +104,7 @@ if ask == 'კი':
 		report.write(name + "-" + byear + '\n')
 		report.write(name + "-" + bday + '\n')
 		report.write(name + "-" + bday2 + '\n')
-		#lname
+
 		report.write(lname + byear + '\n')
 		report.write(lname + bmonth + '\n')
 		report.write(lname + bday + '\n')
@@ -146,7 +149,7 @@ if ask == 'კი':
 		report.write(lname + "-" + byear + '\n')
 		report.write(lname + "-" + bday + '\n')
 		report.write(lname + "-" + bday2 + '\n')
-		#byear
+
 		report.write(byear + lname + '\n')
 		report.write(byear + bmonth + '\n')
 		report.write(byear + bday + '\n')
@@ -192,7 +195,7 @@ if ask == 'კი':
 		report.write(byear + "-" + byear + '\n')
 		report.write(byear + "-" + bday + '\n')
 		report.write(byear + "-" + bday2 + '\n')
-		#country
+
 		report.write(country + lname + '\n')
 		report.write(country + bmonth + '\n')
 		report.write(country + bday + '\n')
@@ -238,7 +241,7 @@ if ask == 'კი':
 		report.write(country + "-" + byear + '\n')
 		report.write(country + "-" + bday + '\n')
 		report.write(country + "-" + bday2 + '\n')
-		#city
+
 		report.write(city + byear + '\n')
 		report.write(city + bmonth + '\n')
 		report.write(city + bday + '\n')
@@ -284,7 +287,7 @@ if ask == 'კი':
 		report.write(city + "-" + byear + '\n')
 		report.write(city + "-" + bday + '\n')
 		report.write(city + "-" + bday2 + '\n')
-		#bgfriendN
+
 		report.write(bgfriendN + byear + '\n')
 		report.write(bgfriendN + bmonth + '\n')
 		report.write(bgfriendN + bday + '\n')
@@ -330,7 +333,7 @@ if ask == 'კი':
 		report.write(bgfriendN + "-" + byear + '\n')
 		report.write(bgfriendN + "-" + bday + '\n')
 		report.write(bgfriendN + "-" + bday2 + '\n')
-		#bgfriendL
+
 		report.write(bgfriendL + byear + '\n')
 		report.write(bgfriendL + bmonth + '\n')
 		report.write(bgfriendL + bday + '\n')
