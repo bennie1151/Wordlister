@@ -6,8 +6,6 @@
 import os
 os.system('clear')
 
-import time
-
 import signal
 
 def keyboardInterruptHandler(signal, frame):
