@@ -45,7 +45,7 @@ if ask == 'კი':
 	report = open('wordlist.txt', 'w')
 
 
-	target in (name,lname,bgfriendN,bgfriendL,byear,bmonth,bday,bday2,color,pet,country,city):
+	for target in (name,lname,bgfriendN,bgfriendL,byear,bmonth,bday,bday2,color,pet,country,city):
 		report.write(name + '\n')
 		report.write(lname + '\n')
 		report.write(name+lname + '\n')
