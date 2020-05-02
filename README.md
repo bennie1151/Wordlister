@@ -1,5 +1,5 @@
 # Wordlister v1.0
-ავტორი: გიო რგი
+ავტორები: გიო რგი & S4RR4
 <br>YouTube - https://youtube.com/AnonymousFromGeorgia
 <br>Facebook - https://facebook.com/anonimaluri
 <br>Github - https://github.com/AnonymousFromGeorgia
