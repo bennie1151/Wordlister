@@ -4,7 +4,8 @@
   <a href="https://twitter.com/anonimaluri"><img src="http://i.imgur.com/tXSoThF.png">
     <a href="https://github.com/AnonymousFromGeorgia"><img src="http://i.imgur.com/0o48UoR.png"></p>
 
-ავტორები: S4RR4 & გიო რგი
+<h6>Coded by S4RR4</h6>
+<h6>Contributed by გიო რგი</h6>
 
 ## ინსტალაცია და გამოყენება
 
