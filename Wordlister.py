@@ -43,40 +43,40 @@ city = input("\n12). შეიყვანეთ ქალაქი სადა
 
 
 if name == '':
-	subprocess.call(["exit"])
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])
 
 elif lname == '':
 
-	subprocess.call(["exit"])
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])
 
 elif bgfriendN == '':
-	subprocess.call(["exit"])
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])
 
 elif bgfriendL == '':
-	subprocess.call(["exit"])
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])
 	
 elif byear == '':
-	subprocess.call(["exit"])
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])
 
 elif bmonth == '':
-	subprocess.call(["exit"])
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])
 	
 elif bday == '':
-	subprocess.call(["exit"])
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])
 elif bday2 == '':
-	subprocess.call(["exit"])		
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])		
 
 elif color == '':
-	subprocess.call(["exit"])
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])
 	
 elif pet == '':
-	subprocess.call(["exit"])
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])
 	
 elif country == '':
-	subprocess.call(["exit"])
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])
 
 elif city == '':
-	subprocess.call(["exit"])
+	subprocess.call(["არ გამოტოვოთ არცერთი შეკითხვა!"])
 
 else:
 
