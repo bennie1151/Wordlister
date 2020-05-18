@@ -351,7 +351,7 @@ else:
 		report.write(byear + byear + bday + bday + '\n')
 		report.write(byear + city + bday2 + '\n')
 		report.write(byear + byear + city + bday2 + bday2 + '\n')
-		#აქედან
+
 		report.write(byear + "_" + byear + '\n')
 		report.write(byear + "_" + bday + '\n')
 		report.write(byear + "_" + byear + '\n')
