@@ -15,5 +15,9 @@ cd Wordlister
 python3 Wordlister.py
 ```
 
+<h2>ფოტო</h2>
+
+![Preview](https://i.ibb.co/NTSNqhn/foto-no-exif.png)
+
 <h2>ვიდეო</h2>
 <a href="https://www.youtube.com/watch?v=vDD3ZYV3TRQ"><img src="https://i.ibb.co/0rHf4zp/maxresdefault.png" style="max-width:100%;"></a>
